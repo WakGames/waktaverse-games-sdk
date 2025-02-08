@@ -10,7 +10,7 @@
 ## Unity
 [WakGames/waktaverse-games-demo-unity](https://github.com/WakGames/waktaverse-games-demo-unity.git) by [NeuroWhAI](https://github.com/NeuroWhAI), [turtle85917](https://github.com/turtle85917), [IVAEU](https://github.com/IVAEU), [kimbap0213](https://github.com/kimbap0213)
 
-[waktaverse-games-sdk-unity](https://github.com/WakGames/waktaverse-games-sdk-unity.git) by [NeuroWhAI](https://github.com/NeuroWhAI), [turtle85917](https://github.com/turtle85917), [IVAEU](https://github.com/IVAEU), [kimbap0213](https://github.com/kimbap0213)
+[WakGames/waktaverse-games-sdk-unity](https://github.com/WakGames/waktaverse-games-sdk-unity.git) by [NeuroWhAI](https://github.com/NeuroWhAI), [turtle85917](https://github.com/turtle85917), [IVAEU](https://github.com/IVAEU), [kimbap0213](https://github.com/kimbap0213)
 
 ## Game Maker (GMS)
 ~~[WakGames/waktaverse-games-demo-gms](https://github.com/WakGames/waktaverse-games-demo-gms.git) by [DO_S](https://github.com/DOS0313)~~
