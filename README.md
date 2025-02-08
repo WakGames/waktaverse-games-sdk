@@ -8,15 +8,16 @@
 # 제공되는 언어별 REST API 클라이언트
 
 ## Unity
-[WakGames/Waktaverse-Games-Demo-Unity](https://github.com/WakGames/Waktaverse-Games-Demo-Unity.git) by [NeuroWhAI](https://github.com/NeuroWhAI), [turtle85917](https://github.com/turtle85917)
+[WakGames/waktaverse-games-demo-unity](https://github.com/WakGames/waktaverse-games-demo-unity.git) by [NeuroWhAI](https://github.com/NeuroWhAI), [turtle85917](https://github.com/turtle85917), [IVAEU](https://github.com/IVAEU), [kimbap0213](https://github.com/kimbap0213)
+[waktaverse-games-sdk-unity](https://github.com/WakGames/waktaverse-games-sdk-unity.git) by [NeuroWhAI](https://github.com/NeuroWhAI), [turtle85917](https://github.com/turtle85917), [IVAEU](https://github.com/IVAEU), [kimbap0213](https://github.com/kimbap0213)
 
 ## Game Maker (GMS)
-~~[WakGames/Waktaverse-Games-Demo-GMS](https://github.com/WakGames/Waktaverse-Games-Demo-GMS.git) by [DO_S](https://github.com/DOS0313)~~
+~~[WakGames/waktaverse-games-demo-gms](https://github.com/WakGames/waktaverse-games-demo-gms.git) by [DO_S](https://github.com/DOS0313)~~
    
 개발 보류
 
 ## Unreal Engine
-[WakGames/Waktaverse-Games-Demo-UE](https://github.com/WakGames/Waktaverse-Games-Demo-UE) by [ReTeu](https://github.com/reteu5)   
+[WakGames/waktaverse-games-demo-ue](https://github.com/WakGames/waktaverse-games-demo-ue) by [ReTeu](https://github.com/reteu5)   
    
 개발 중입니다.
 
@@ -27,16 +28,16 @@
 준비 중입니다.
 
 ## Godot Engine
-[WakGames/Waktaverse-Games-Demo-Godot](https://github.com/WakGames/Waktaverse-Games-Demo-Godot) by [Pulto](https://github.com/turtle85917)   
+[WakGames/waktaverse-games-demo-godot](https://github.com/WakGames/waktaverse-games-demo-godot) by [Pulto](https://github.com/turtle85917)   
    
 개발 중입니다.
 
 ## Node.js
-[WakGames/Waktaverse-Games-GameSdk-Nodejs](https://github.com/WakGames/Waktaverse-Games-GameSdk-Nodejs.git) by [Ayaan_](https://github.com/kms0219kms)   
+[WakGames/waktaverse-games-sdk-nodejs](https://github.com/WakGames/waktaverse-games-sdk-nodejs.git) by [Ayaan_](https://github.com/kms0219kms)   
    
 개발 중입니다.
 
 ## Vanilla JS (for Web)
-[WakGames/Waktaverse-Games-GameSdk-VanillaJs](https://github.com/WakGames/Waktaverse-Games-GameSdk-VanillaJs.git) by [Ayaan_](https://github.com/kms0219kms)   
+[WakGames/waktaverse-games-sdk-js](https://github.com/WakGames/waktaverse-games-sdk-js.git) by [Ayaan_](https://github.com/kms0219kms)   
    
 개발 중입니다.
